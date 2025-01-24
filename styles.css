@@ -96,7 +96,7 @@ h1.nav_element
 }
 a.nav-element:link{
     color: white;
-    background-color: blue;
+    background-color: green;
     text-decoration: none;
 }
 a.nav-element:visited{
