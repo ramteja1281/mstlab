@@ -101,11 +101,11 @@ a.nav-element:link{
 }
 a.nav-element:visited{
    color: white;
-    background-color: black;
+    background-color: green;
     text-decoration: none;
 }
 a.nav-element:hover{
-   color:yellow;
+   color:red;
    text-decoration: none;
 }
 .cover{
