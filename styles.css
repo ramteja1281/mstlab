@@ -92,7 +92,6 @@ h1.nav_element
     margin-right: 2%;
     bottom: 0;
     left: 70%;
-    background-color:green
 
 }
 a.nav-element:link{
@@ -102,7 +101,7 @@ a.nav-element:link{
 }
 a.nav-element:visited{
    color: white;
-    background-color: green;
+    background-color: black;
     text-decoration: none;
 }
 a.nav-element:hover{
